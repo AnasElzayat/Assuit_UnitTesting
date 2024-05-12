@@ -11,6 +11,7 @@ namespace CarFactoryLibrary
         BMW,
         Toyota,
         Audi,
-        Honda
+        Honda,
+        Kia
     }
 }
